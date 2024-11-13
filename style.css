@@ -1,0 +1,28 @@
+.name {
+    width: 636px;
+    height: 116px;
+    margin: 0 auto;
+    background-color: brown;
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    padding: 24px.17px.23px.28px;
+}
+
+.name2 {
+    width: 1000px        ;
+    height: 638px;
+    background-color: black;
+    margin: 0 auto;
+    margin-top: 55px;
+    border: solid 8px red;
+}
+
+.name3 {
+    background-color: aqua;
+    width: 896px;
+    height: 150px;
+    margin-left: 52px;
+    margin-top: 45px;
+    font-size: 30px;
+}
